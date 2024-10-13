@@ -1,0 +1,38 @@
+[24-Aug-2024 06:16:34 UTC] PHP Warning:  imagepng(/home/pekanris/public_html/qr_codes/idcard/m.salmanalhafizh_qrcode.png): Failed to open stream: No such file or directory in /home/pekanris/public_html/phpqrcode/qrimage.php on line 43
+[25-Aug-2024 14:17:12 UTC] PHP Warning:  imagepng(/home/pekanris/public_html/qr_codes/idcard/harrisnanda22_qrcode.png): Failed to open stream: No such file or directory in /home/pekanris/public_html/phpqrcode/qrimage.php on line 43
+[25-Aug-2024 20:40:14 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/pekanris/public_html/server/koneksi.php:3
+Stack trace:
+#0 /home/pekanris/public_html/server/koneksi.php(3): mysqli_connect()
+#1 /home/pekanris/public_html/server/login.php(8): include('/home/pekanris/...')
+#2 {main}
+  thrown in /home/pekanris/public_html/server/koneksi.php on line 3
+[25-Aug-2024 20:40:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/pekanris/public_html/server/koneksi.php:3
+Stack trace:
+#0 /home/pekanris/public_html/server/koneksi.php(3): mysqli_connect()
+#1 /home/pekanris/public_html/server/login.php(8): include('/home/pekanris/...')
+#2 {main}
+  thrown in /home/pekanris/public_html/server/koneksi.php on line 3
+[25-Aug-2024 20:40:23 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/pekanris/public_html/server/koneksi.php:3
+Stack trace:
+#0 /home/pekanris/public_html/server/koneksi.php(3): mysqli_connect()
+#1 /home/pekanris/public_html/server/login.php(8): include('/home/pekanris/...')
+#2 {main}
+  thrown in /home/pekanris/public_html/server/koneksi.php on line 3
+[25-Aug-2024 20:40:26 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/pekanris/public_html/server/koneksi.php:3
+Stack trace:
+#0 /home/pekanris/public_html/server/koneksi.php(3): mysqli_connect()
+#1 /home/pekanris/public_html/server/login.php(8): include('/home/pekanris/...')
+#2 {main}
+  thrown in /home/pekanris/public_html/server/koneksi.php on line 3
+[25-Aug-2024 20:40:30 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/pekanris/public_html/server/koneksi.php:3
+Stack trace:
+#0 /home/pekanris/public_html/server/koneksi.php(3): mysqli_connect()
+#1 /home/pekanris/public_html/server/login.php(8): include('/home/pekanris/...')
+#2 {main}
+  thrown in /home/pekanris/public_html/server/koneksi.php on line 3
+[25-Aug-2024 20:41:07 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/pekanris/public_html/server/koneksi.php:3
+Stack trace:
+#0 /home/pekanris/public_html/server/koneksi.php(3): mysqli_connect()
+#1 /home/pekanris/public_html/server/login.php(8): include('/home/pekanris/...')
+#2 {main}
+  thrown in /home/pekanris/public_html/server/koneksi.php on line 3
